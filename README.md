@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Concurrent Data Structures**
 
-- ⚡ Fun fact **Exchange student at EPFL**
+- ⚡ Other projects: [A study of Refugee Perception Shifts on Twitter Data](https://www.overleaf.com/read/ggbgxkqpvsjq)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
