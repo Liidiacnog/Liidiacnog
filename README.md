@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Lidia Casado Noguerales</h1>
-<h3 align="center">A Computer Science student at UCM</h3>
+<h3 align="center">A Computer Science Engineer</h3>
 
-- 🌱 I’m currently learning **AI, Ethics in CS, Algorithms, Networks and OSs, BlockChain**
+- 🌱 I’m currently learning **AI, Ethics in CS, Algorithms, Networks and OSs, Smart Contract Programming for EVM**
 
 - 🔭 I’m currently working on **Concurrent Data Structures**
 
